@@ -1,7 +1,7 @@
 <!-- Profile README: miguelazaro/miguelazaro -->
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Miguel%20Lázaro&fontSize=40)
-# Hi, I am Miguel 👋
+# Hi, I am Miguel Lázaro
 
 ### Full-Stack Developer specialized in Next.js and React
 
@@ -14,19 +14,19 @@ I build modern web applications, business systems and scalable digital solutions
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💻 I am a **Full-Stack Developer**.
-- 🚀 I work with **Next.js, React, TypeScript and Node.js**.
-- 🏢 I am **Co-founder and Developer at [Nodatix](https://www.nodatix.com/)**.
-- 🧩 I build CRM systems, SaaS products and business applications.
-- 🗄️ I work with relational and NoSQL databases.
-- 📚 I am always learning new technologies.
-- 🤝 I enjoy teamwork and building useful software.
+-  I am a **Full-Stack Developer**.
+-  I work with **Next.js, React, TypeScript and Node.js**.
+-  I am **Co-founder at [Nodatix](https://www.nodatix.com/)**.
+-  I build CRM systems, SaaS products and business applications.
+-  I work with relational and NoSQL databases.
+-  I am always learning new technologies.
+-  I enjoy teamwork and building useful software.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -67,9 +67,9 @@ I build modern web applications, business systems and scalable digital solutions
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎂 CRM Pastelería
+### CRM Pastelería
 
 CRM system created for a bakery business.
 
@@ -88,7 +88,7 @@ It helps manage:
 
 ---
 
-### 🎟️ Evenrent
+### Evenrent
 
 Event management and rental system for event businesses.
 
@@ -100,7 +100,7 @@ It helps organize events, resources and business operations.
 
 ---
 
-### 🌐 Developer Portfolio
+### Developer Portfolio
 
 My professional portfolio with information about my experience, technical skills and software projects.
 
@@ -111,7 +111,7 @@ My professional portfolio with information about my experience, technical skills
 
 ---
 
-### 🥗 NutriDev
+### NutriDev
 
 web-based system focused on nutrition and healthy habits.
 
@@ -121,7 +121,7 @@ It was developed as a software project with application and database management 
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 ![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelazaro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -163,7 +163,7 @@ Our services include:
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 You can contact me for software projects, collaboration or professional opportunities.
 
@@ -175,7 +175,7 @@ You can contact me for software projects, collaboration or professional opportun
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=miguelazaro&label=Profile%20Views&color=6366f1&style=for-the-badge)
 
